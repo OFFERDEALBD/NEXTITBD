@@ -1,0 +1,163 @@
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 1024px) {
+h1.entry-title {
+    font-size: 60px;
+    top: 50%;
+}
+#service {
+    padding: 30px 0px;
+}
+#about {
+    padding: 50px 0px;
+}
+#portfolio {
+    padding: 50px 0px;
+}
+p.description {
+    padding-top: 20px;
+}
+#post {
+    padding: 10px 0px 50px;
+}
+#pricing {
+    padding: 50px 0px;
+}
+.choose-item1{
+  padding: 23px 0px 0px 25px;
+}
+.choose-item1 p {
+    line-height: 30px;
+}
+.last-btn {
+    margin-top: 40px;
+}
+#cont {
+    padding: 50px 0px;
+}
+.ct-btn a {
+    margin-top: -25px;
+}
+#contact {
+    padding: 50px 0px;
+}
+footer {
+    padding: 40px 0px;
+}
+.footer-item h2 {
+    margin-bottom: 20px;
+}
+.footer-item h4 {
+    margin-bottom: 20px;
+}
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+ h1.entry-title {
+    font-size: 20px;
+    top: 50%;
+    line-height: 27px;
+}
+h2.site-title{
+	font-size: 25px;
+}
+#service {
+    padding: 30px 0px;
+}
+#service .service-item {
+    padding: 10px 0px;
+}
+p.description {
+    padding-top: 10px;
+}
+.special {
+    margin: 12px 0px 25px;
+}
+#portfolio {
+    padding: 30px 0px;
+}
+#post {
+    padding: 30px 0px;
+}
+.post-item{
+	margin-top: 30px;
+}
+#slider {
+    padding: 30px 0px 60px;
+}
+#slider ol {
+    top: 104%;
+}
+#pricing {
+    padding: 40px 0px;
+}
+.choose-item1 h3 {
+    font-size: 25px;
+}
+.choose-item1 {
+    padding: 0px 25px;
+}
+.last-btn {
+    margin: 20px 0px 35px;
+}
+#cont {
+    padding: 0px 0px 35px;
+}
+.count-item {
+    margin-top: 40px;
+}
+.ct-item p {
+    font-size: 20px;
+}
+#contact {
+    padding: 35px 0px;
+}
+footer {
+    padding: 35px 0px;
+}
+.footer-item h2 {
+    color: #08526d;
+    font-weight: 700;
+    font-size: 26px;
+    margin: 0px 0px 8px;
+}
+.footer-item h4 {
+    margin: 15px 0px 5px;
+}
+.laster-item p{
+	font-size: 8px;
+}
+.laster .social-icon ul li a i {
+    padding-left: 10px;
+}
+.ct-btn a {
+    margin-top: 20px;
+}
+.last-btn {
+    padding-bottom: 35px;
+}
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ h1.entry-title {
+    font-size: 30px;
+    top: 50%;
+    line-height: 45px;
+}
+#service {
+    padding: 20px 0px;
+}
+}
+ 
